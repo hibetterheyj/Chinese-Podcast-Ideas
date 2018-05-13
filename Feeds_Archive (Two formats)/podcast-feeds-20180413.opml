@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<opml version="2.0">
+  <head>
+    <title>AntennaPod Subscriptions</title>
+    <dateCreated>13 Apr 18 18:06:35 +0800</dateCreated>
+  </head>
+  <body>
+    <outline text="Accidental Tech Podcast" title="Accidental Tech Podcast" type="rss" xmlUrl="http://atp.fm/episodes?format=rss" htmlUrl="http://atp.fm/" />
+    <outline text="Anyway.FM × 设计杂谈" title="Anyway.FM × 设计杂谈" type="rss" xmlUrl="https://anyway.fm/rss.xml" htmlUrl="http://Anyway.FM" />
+    <outline text="Checked" title="Checked" type="rss" xmlUrl="http://checked.fm/feed/podcast" htmlUrl="http://checked.fm" />
+    <outline text="IT 公论" title="IT 公论" type="rss" xmlUrl="https://itgonglun.com/rss" htmlUrl="http://itgonglun.com/" />
+    <outline text="Philosophize This!" title="Philosophize This!" type="rss" xmlUrl="http://philosophizethis.libsyn.com/rss" htmlUrl="http://www.philosophizethis.org" />
+    <outline text="Teahour.fm" title="Teahour.fm" type="rss" xmlUrl="http://teahour.fm/feed.xml" htmlUrl="" />
+    <outline text="TED Radio Hour" title="TED Radio Hour" type="rss" xmlUrl="https://www.npr.org/rss/podcast.php?id=510298" htmlUrl="https://www.npr.org/programs/ted-radio-hour/" />
+    <outline text="The Information" title="The Information" type="atom" xmlUrl="https://www.theinformation.com/feed" htmlUrl="https://www.theinformation.com" />
+    <outline text="UTT" title="UTT" type="rss" xmlUrl="http://utt.one/feed.xml" htmlUrl="http://utt.one/" />
+    <outline text="UX Coffee 设计咖" title="UX Coffee 设计咖" type="rss" xmlUrl="https://rss.simplecast.com/podcasts/1897/rss" htmlUrl="http://uxcoffee.co" />
+    <outline text="一天世界" title="一天世界" type="rss" xmlUrl="http://yitianshijie.net/rss" htmlUrl="http://yitianshijie.net/" />
+    <outline text="一道去台湾" title="一道去台湾" type="rss" xmlUrl="http://getpodcast.xyz/data/163/6.xml" htmlUrl="http://music.163.com/m/djradio?id=6" />
+    <outline text="两个 iT 大叔" title="两个 iT 大叔" type="rss" xmlUrl="http://podcast.lengqidong.com/podcast.xml" htmlUrl="http://music.163.com/#/djradio?id=344976064" />
+    <outline text="保持冷静" title="保持冷静" type="rss" xmlUrl="http://banlan.show/keepcalm.rss" htmlUrl="https://banlan.show/keepcalm" />
+    <outline text="内核恐慌" title="内核恐慌" type="rss" xmlUrl="https://kernelpanic.fm/feed" htmlUrl="https://kernelpanic.fm" />
+    <outline text="冬吴同学会" title="冬吴同学会" type="rss" xmlUrl="http://getpodcast.xyz/data/ximalaya/8475135.xml" htmlUrl="http://www.ximalaya.com/album/8475135/" />
+    <outline text="创客 Creators" title="创客 Creators" type="rss" xmlUrl="https://rss.simplecast.com/podcasts/2683/rss" />
+    <outline text="单读第一季：与许知远一起阅读这个时代" title="单读第一季：与许知远一起阅读这个时代" type="rss" xmlUrl="http://www.ximalaya.com/album/355540.xml" htmlUrl="http://www.ximalaya.com" />
+    <outline text="博物志" title="博物志" type="rss" xmlUrl="https://museelogue.fireside.fm/rss" htmlUrl="https://museelogue.fireside.fm/" />
+    <outline text="味之道" title="味之道" type="rss" xmlUrl="https://wzd.fm/feed" htmlUrl="https://wzd.fm/" />
+    <outline text="声波飞行员" title="声波飞行员" type="rss" xmlUrl="http://rss.lizhi.fm/rss/1635236.xml" htmlUrl="http://www.lizhi.fm" />
+    <outline text="太医来了" title="太医来了" type="rss" xmlUrl="http://taiyilaile.com/rss" htmlUrl="http://taiyilaile.com/" />
+    <outline text="字谈字畅" title="字谈字畅" type="rss" xmlUrl="https://www.typeisbeautiful.com/feed/typechat/" htmlUrl="https://www.typeisbeautiful.com/typechat/" />
+    <outline text="异能FM X 全球设计故事" title="异能FM X 全球设计故事" type="rss" xmlUrl="http://rss.lizhi.fm/rss/1310979.xml" htmlUrl="http://www.lizhi.fm" />
+    <outline text="文化土豆 Culture Potato" title="文化土豆 Culture Potato" type="rss" xmlUrl="http://www.spreaker.com/show/2571819/episodes/feed" htmlUrl="http://www.culturepotato.com" />
+    <outline text="机核网 GADIO 游戏广播" title="机核网 GADIO 游戏广播" type="rss" xmlUrl="http://feed.tangsuanradio.com/gadio.xml" htmlUrl="http://feed.tangsuanradio.com/gadio.xml" />
+    <outline text="比特新声" title="比特新声" type="rss" xmlUrl="http://banlan.show/bitvoice.rss" htmlUrl="https://banlan.show/bitvoice" />
+    <outline text="灭茶苦茶" title="灭茶苦茶" type="rss" xmlUrl="http://miechakucha.com/rss" htmlUrl="http://miechakucha.com/" />
+    <outline text="疯投圈" title="疯投圈" type="rss" xmlUrl="https://crazy.capital/feed" htmlUrl="https://crazy.capital" />
+    <outline text="观复嘟嘟" title="观复嘟嘟" type="rss" xmlUrl="http://www.ximalaya.com/album/3475911.xml" htmlUrl="http://www.ximalaya.com" />
+    <outline text="读书有疑" title="读书有疑" type="rss" xmlUrl="http://getpodcast.xyz/data/163/331833058.xml" htmlUrl="http://music.163.com/m/djradio?id=331833058" />
+    <outline text="路书" title="路书" type="rss" xmlUrl="http://lushu88.com/rss" htmlUrl="http://lushu88.com/" />
+    <outline text="迟早更新" title="迟早更新" type="rss" xmlUrl="http://rss.lizhi.fm/rss/1728291.xml" htmlUrl="http://www.lizhi.fm" />
+    <outline text="选·美" title="选·美" type="rss" xmlUrl="https://xuanmei.us/rss" htmlUrl="http://xuanmei.us/" />
+    <outline text="静说日本" title="静说日本" type="rss" xmlUrl="http://getpodcast.xyz/data/ximalaya/3385980.xml" htmlUrl="http://www.ximalaya.com/album/3385980/" />
+    <outline text="麻雀" title="麻雀" type="rss" xmlUrl="http://maque.in/feed.xml" htmlUrl="http://maque.in/" />
+    <outline text="黑水公园" title="黑水公园" type="rss" xmlUrl="http://www.ximalaya.com/album/3558668.xml" htmlUrl="http://www.ximalaya.com" />
+  </body>
+</opml>
