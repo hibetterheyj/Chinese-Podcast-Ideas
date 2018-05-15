@@ -1,10 +1,8 @@
 ## 中文播客种种 | Chinese Podcast Ideas etc.
 
-> 在收听播客成长路上的总结与记录，该repo会不断更新，最近更新日期为：2018/05/13。
->
-> 本文遵循<a href="https://nodejs.org/"><img alt="node.js" src="https://img.shields.io/badge/CC%20BY--SA-4.0-brightgreen.svg"/></a>，具体请见[署名-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)。
+> 在收听播客成长路上的总结与记录，该repo会不断更新，最近更新日期为：2018/05/15。
 
-=================
+本文遵循<a href="https://nodejs.org/"><img alt="node.js" src="https://img.shields.io/badge/CC%20BY--SA-4.0-brightgreen.svg"/></a>，具体请见[署名-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)。
 
 =================
 
@@ -25,7 +23,7 @@
 
 计划是每周有1~3篇自己听完播客后的感想总结以及未来自己播客可以去探讨的idea，慢慢加深自己的知识储备吧！
 
-很喜欢IPN旗下播客的宗旨：理性、不反智而湿货多
+很喜欢[IPN](https://ipn.li/)旗下播客的宗旨：**理性、不反智和湿货多**
 
 现阶段还是没能够有很多记下播客主要内容的好方法以及产出高质量评论的能力，望海涵！
 
@@ -39,17 +37,42 @@
 
 #### 更新必听
 
+
+
+- Byte.Coffee 【[Website](http://byte.coffee)】【[Feed](http://byte.coffee/feed/)】
+
+**MilkShake 羊**主持的一档播客节目，聊咖啡，聊技术，18年新开的一档播客，是我未来播客的理想目标吧！她的个人博客yuezhu.org里的文字很也很有味道与温度，值得一读！
+
+- 字谈字畅 【[Website](https://www.thetype.com/typechat/)】【[Feed](https://thetype.com/feed/typechat/)]】
+
+**Eric**与**钱争予**两人主持的首家中文字体播客节目，或许真正做到了听觉声音去取代视觉艺术，也让我一步步进入了有趣的字体之坑
+
 - Anyway.FM × 设计杂谈 【[Website](https://Anyway.FM)】【[Feed](https://anyway.fm/rss.xml)】
 
 **Leon Gao**与**JJ Ying**主持的一档设计播客，官网好看，安妮薇日报也值得订阅！
 
-- Byte.Coffee 【[Website](http://byte.coffee)】【[Feed](http://byte.coffee/feed/)】
+- 迟早更新 【[Website](http://www.lizhi.fm)】【[Feed](http://rss.lizhi.fm/rss/1728291.xml)】
 
-**MilkShake 羊**主持的一档播客节目，聊咖啡，聊技术，18年新开的一档播客，是我未来播客的理想目标吧！
+任宁与枪枪主持的泛科技类播客。【迟早过年】春节系列节目尤其令人喜欢，在那个喧嚣而嘈杂的假期，几期读书类播客让我颇为安宁。
+
+- 疯投圈 【[Website](https://crazy.capital)】【[Feed](https://crazy.capital/feed)】
+
+**Rio**与**黄海**主持的有关风险投资类播客节目，让难以了解稿相关领域的工科生有了新的天地
+
+=================
+
+**以下为[IPN](https://ipn.li/)系列播客节目**
 
 - 选·美 【[Website](http://xuanmei.us/)】【[Feed](https://xuanmei.us/rss)】
+
+关于美国大学
+
 - 太医来了 【[Website](http://taiyilaile.com/)】【[Feed](http://taiyilaile.com/rss)】
-- 字谈字畅 【[Website](https://www.thetype.com/typechat/)】【[Feed](https://thetype.com/feed/typechat/)]】
+
+几位太医关于学界、医界各种问题的探讨与科普，着实有趣
+
+- IT 公论 【[Website](http://itgonglun.com/)】【[Feed](https://itgonglun.com/rss)】
+
 - `To be continued`
 
 &nbsp;
@@ -59,6 +82,10 @@
 - Checked 【[Website](http://checked.fm)】【[Feed](http://checked.fm/feed/podcast)】
 
 由 JailbreakHum、文刀漢三和清越千千共同主持的科技类播客，无论是聊效率，或者聊APP都很值得一听，就因为不是果粉，所以选择而听，但不亚于上述的播客。
+
+- UX Coffee 设计咖 【[Website](http://uxcoffee.co)】【[Feed](https://rss.simplecast.com/podcasts/1897/rss)】
+- 声波飞行员 【[Website](http://www.lizhi.fm)】【[Feed](http://rss.lizhi.fm/rss/1635236.xml)】
+- 静说日本 · 徐静波 【[Website](http://www.ximalaya.com/album/3385980/)】【[Feed](http://getpodcast.xyz/data/ximalaya/3385980.xml)】
 
 - `To be continued`
 
